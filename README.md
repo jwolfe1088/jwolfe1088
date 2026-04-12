@@ -18,7 +18,7 @@ Over the past year I've been building hands-on experience with Python, pytest, P
 | [automation-exercise](https://github.com/jwolfe1088/automation-exercise) | UI Automation | Python, pytest, Playwright |
 | [api-tests](https://github.com/jwolfe1088/api-tests) | API Automation | Python, pytest, requests |
 | [saucedemo](https://github.com/jwolfe1088/saucedemo) | UI Automation | Python, pytest, Playwright |
-
+| [JSONDummy_Project](https://github.com/jwolfe1088/JSONDummy_Project) | API Automation | Python, pytest, requests |
 ## 📫 Contact
 
 jonwolfe.qa@outlook.com
