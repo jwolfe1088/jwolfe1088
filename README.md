@@ -14,11 +14,12 @@ Over the past year I've been building hands-on experience with Python, pytest, P
 
 | Project | Type | Stack |
 |---|---|---|
-| [restful-booker1](https://github.com/jwolfe1088/restful-booker1) | Hybrid UI + API | Python, pytest, Playwright, requests |
-| [automation-exercise](https://github.com/jwolfe1088/automation-exercise) | UI Automation | Python, pytest, Playwright |
-| [api-tests](https://github.com/jwolfe1088/api-tests) | API Automation | Python, pytest, requests |
+| [practice.expandtesting](https://github.com/jwolfe1088/practice.expandtesting) | Hybrid UI + API | Python, pytest, Playwright, requests, GitHub Actions |
+| [restful-booker1](https://github.com/jwolfe1088/restful-booker1) | Hybrid UI + API | Python, pytest, Playwright, requests, GitHub Actions |
+| [automation-exercise](https://github.com/jwolfe1088/automation-exercise) | UI Automation | Python, pytest, Playwright, GitHub Actions |
+| [api-tests](https://github.com/jwolfe1088/api-tests) | API Automation | Python, pytest, requests, GitHub Actions |
 | [saucedemo](https://github.com/jwolfe1088/saucedemo) | UI Automation | Python, pytest, Playwright |
-| [JSONDummy_Project](https://github.com/jwolfe1088/JSONDummy_Project) | API Automation | Python, pytest, requests |
+| [JSONDummy_Project](https://github.com/jwolfe1088/JSONDummy_Project) | API Automation | Python, pytest, requests, GitHub Actions |
 ## 📫 Contact
 
 jonwolfe.qa@outlook.com
