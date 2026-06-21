@@ -2,7 +2,7 @@
 
 I'm a self-taught QA Automation Engineer based in Columbus, Ohio, transitioning from running a small business into a full-time career in software quality and test automation.
 
-Over the past year I've been building hands-on experience with Python, pytest, Playwright, and requests — designing and shipping four automation projects from scratch covering UI testing, API testing, and hybrid end-to-end suites.
+Over the past two years I've been building hands-on experience with Python, pytest, Playwright, and requests — designing and shipping six automation projects from scratch covering UI testing, API testing, and hybrid end-to-end suites.
 
 ## 🛠️ Tech Stack
 
