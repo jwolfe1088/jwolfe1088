@@ -2,11 +2,11 @@
 
 I'm a self-taught QA Automation Engineer based in Columbus, Ohio, transitioning from running a small business into a full-time career in software quality and test automation.
 
-Over the past two years I've been building hands-on experience with Python, pytest, Playwright, and requests — designing and shipping six automation projects from scratch covering UI testing, API testing, and hybrid end-to-end suites.
+Over the past two years I've been building hands-on experience with Python, pytest, Playwright, and requests — designing and shipping eight automation projects from scratch covering UI testing, API testing, and hybrid end-to-end suites.
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python, pytest, Playwright, requests
+- **Languages & Frameworks:** Python, JavaScript, pytest, Playwright, requests
 - **Tools:** GitHub Actions, Postman, Jira, VS Code
 - **Concepts:** Page Object Model, Fixtures, CI/CD, API Testing, Bug Lifecycle
 
@@ -14,6 +14,8 @@ Over the past two years I've been building hands-on experience with Python, pyte
 
 | Project | Type | Stack |
 |---|---|---|
+| [Sauce_Demo_JS](https://github.com/jwolfe1088/Sauce_Demo_JS) | UI Automation | JavaScript, Playwright, GitHub Actions |
+| [daycare_tracker](https://github.com/jwolfe1088/Daycare_tracker) | CLI | Python, pytest, SQLite pexpect, GitHub Actions |
 | [practice.expandtesting](https://github.com/jwolfe1088/practice.expandtesting) | Hybrid UI + API | Python, pytest, Playwright, requests, GitHub Actions |
 | [restful-booker1](https://github.com/jwolfe1088/restful-booker1) | Hybrid UI + API | Python, pytest, Playwright, requests, GitHub Actions |
 | [automation-exercise](https://github.com/jwolfe1088/automation-exercise) | UI Automation | Python, pytest, Playwright, GitHub Actions |
